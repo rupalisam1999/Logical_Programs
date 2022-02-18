@@ -1,4 +1,12 @@
-    int number,sum=0,n;
+   using System;
+
+namespace PerfectNO_LP
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+ int number,sum=0,n;
             Console.Write("enter the Number");
             number = int.Parse(Console.ReadLine());
             n = number;
